@@ -1,0 +1,22 @@
+{
+  "name": "obp",
+  "version": "1.0.0",
+  "description": "Open Bank Project - API REST",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ajsb85/npm-obp.git"
+  },
+  "keywords": [
+    "obp",
+    "openbankproject",
+    "bank",
+    "finance",
+    "trade"
+  ],
+  "author": "Alexander J. Salas B. <a.salas@ieee.org> (http://ajsb85.com)",
+  "license": "GPL-3.0"
+}
